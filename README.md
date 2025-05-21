@@ -1,5 +1,11 @@
 # Shopping Manager Android App
 
+Created by :
+Ran Azulay
+Nimrod Aharon
+Yehuda Ekoz
+Inbal Bolshinsky
+
 A simple and efficient Android application for managing shopping lists with user authentication.
 
 ## Features
